@@ -1,0 +1,15 @@
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\bin\Debug\net6.0\Projection.exe
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\bin\Debug\net6.0\Projection.deps.json
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\bin\Debug\net6.0\Projection.runtimeconfig.json
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\bin\Debug\net6.0\Projection.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\bin\Debug\net6.0\ref\Projection.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\bin\Debug\net6.0\Projection.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\obj\Debug\net6.0\Projection.csproj.AssemblyReference.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\obj\Debug\net6.0\Projection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\obj\Debug\net6.0\Projection.AssemblyInfoInputs.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\obj\Debug\net6.0\Projection.AssemblyInfo.cs
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\obj\Debug\net6.0\Projection.csproj.CoreCompileInputs.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\obj\Debug\net6.0\Projection.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\obj\Debug\net6.0\ref\Projection.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\obj\Debug\net6.0\Projection.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Projection\obj\Debug\net6.0\Projection.genruntimeconfig.cache
