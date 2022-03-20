@@ -3,9 +3,39 @@
   "ProjectMap": {
     "63ac612b-f7b7-4419-adde-a37543cdea38": {
       "ProjectGuid": "63ac612b-f7b7-4419-adde-a37543cdea38",
-      "DisplayName": "Projection",
+      "DisplayName": "1. Projection",
       "ColorIndex": 0
+    },
+    "717e4a1b-5932-49da-84a8-429a3206b112": {
+      "ProjectGuid": "717e4a1b-5932-49da-84a8-429a3206b112",
+      "DisplayName": "2. Filtering",
+      "ColorIndex": 1
+    },
+    "23c67c84-d710-4fce-9562-2aab3317c89c": {
+      "ProjectGuid": "23c67c84-d710-4fce-9562-2aab3317c89c",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "cf4c4fe6-1451-4d43-b9fd-fc031da910c2": {
+      "ProjectGuid": "cf4c4fe6-1451-4d43-b9fd-fc031da910c2",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 3
+    },
+    "da6b5414-72b2-4d99-8678-eae68ffe933a": {
+      "ProjectGuid": "da6b5414-72b2-4d99-8678-eae68ffe933a",
+      "DisplayName": "3. Sorting",
+      "ColorIndex": 4
+    },
+    "bc43cb8a-f993-4829-bb9c-c8fef0748e60": {
+      "ProjectGuid": "bc43cb8a-f993-4829-bb9c-c8fef0748e60",
+      "DisplayName": "4. Grouping",
+      "ColorIndex": 5
+    },
+    "f6112633-da86-4006-a805-77eba3f5d55d": {
+      "ProjectGuid": "f6112633-da86-4006-a805-77eba3f5d55d",
+      "DisplayName": "5. Joining",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 7
 }

@@ -11,5 +11,6 @@
         public int Age { get; set; }
         public List<int> Grades { get; set; }
         public string Nationality { get; set; }
+        public int ClassId { get; set; }
     }
 }

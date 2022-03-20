@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Sorting", "3. Sorting\3.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Grouping", "4. Grouping\4. Grouping.csproj", "{BC43CB8A-F993-4829-BB9C-C8FEF0748E60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Joining", "5. Joining\5. Joining.csproj", "{F6112633-DA86-4006-A805-77EBA3F5D55D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BC43CB8A-F993-4829-BB9C-C8FEF0748E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC43CB8A-F993-4829-BB9C-C8FEF0748E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC43CB8A-F993-4829-BB9C-C8FEF0748E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6112633-DA86-4006-A805-77EBA3F5D55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6112633-DA86-4006-A805-77EBA3F5D55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6112633-DA86-4006-A805-77EBA3F5D55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6112633-DA86-4006-A805-77EBA3F5D55D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

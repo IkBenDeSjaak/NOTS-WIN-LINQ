@@ -52,7 +52,7 @@ static void DescendingExample(List<Student> studentList)
     }
 }
 
-SecondarySort(studentList);
+//SecondarySort(studentList);
 
 static void SecondarySort(List<Student> studentList)
 {
