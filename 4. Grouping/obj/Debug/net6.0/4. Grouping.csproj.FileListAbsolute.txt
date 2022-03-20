@@ -1,0 +1,18 @@
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\bin\Debug\net6.0\4. Grouping.exe
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\bin\Debug\net6.0\4. Grouping.deps.json
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\bin\Debug\net6.0\4. Grouping.runtimeconfig.json
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\bin\Debug\net6.0\4. Grouping.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\bin\Debug\net6.0\ref\4. Grouping.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\bin\Debug\net6.0\4. Grouping.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\obj\Debug\net6.0\4. Grouping.csproj.AssemblyReference.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\obj\Debug\net6.0\4. Grouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\obj\Debug\net6.0\4. Grouping.AssemblyInfoInputs.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\obj\Debug\net6.0\4. Grouping.AssemblyInfo.cs
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\obj\Debug\net6.0\4. Grouping.csproj.CoreCompileInputs.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\obj\Debug\net6.0\4. Grouping.csproj.CopyComplete
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\obj\Debug\net6.0\4. Grouping.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\obj\Debug\net6.0\ref\4. Grouping.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\obj\Debug\net6.0\4. Grouping.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\4. Grouping\obj\Debug\net6.0\4. Grouping.genruntimeconfig.cache

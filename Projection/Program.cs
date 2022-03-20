@@ -1,37 +1,63 @@
-﻿List<Student> studentList = new() {
-    new Student() { Id = 1, Name = "Sjaak", Age = 22, Grades = new List<int> { 10, 10, 10 } },
-    new Student() { Id = 2, Name = "Bob",  Age = 21, Grades = new List<int> { 6, 5, 4 } },
-    new Student() { Id = 3, Name = "Jan",  Age = 18, Grades = new List<int> { 4, 2, 4 } },
-    new Student() { Id = 4, Name = "Piet" , Age = 25, Grades = new List<int> { 5, 3, 2 } },
-    new Student() { Id = 5, Name = "Klaas" , Age = 22, Grades = new List<int> { 4, 3, 3 } }
-};
+﻿using ClassLibrary;
 
-// Query expression syntax
-var query = from student in studentList
-             select student.Name;
+List<Student> studentList = new Students().studentList;
 
-// Method based query syntax
-var query2 = studentList.Select(student => student.Name);
+SelectExample(studentList);
 
-Console.WriteLine("-------------------------");
-
-foreach (string s in query)
+static void SelectExample(List<Student> studentList)
 {
-    Console.WriteLine(s);
+    // Query expression syntax
+    var query1 = from student in studentList
+                 select student.Name;
+
+    // Method based query syntax
+    var query2 = studentList.Select(student => student.Name);
+
+    foreach (string name in query1)
+    {
+        Console.WriteLine(name);
+    }
+
+    Console.WriteLine("-------------------------");
+
+    foreach (string name in query2)
+    {
+        Console.WriteLine(name);
+    }
 }
 
-Console.WriteLine("-------------------------");
+// SelectManyExample(studentList);
 
-foreach (string s in query2)
+static void SelectManyExample(List<Student> studentList)
 {
-    Console.WriteLine(s);
+    // Query expression syntax
+    var query1 = from student in studentList
+                 from grades in student.Grades
+                 select grades;
+
+    // Method based query syntax
+    var query2 = studentList.SelectMany(student => student.Grades);
+
+    foreach (int grade in query1)
+    {
+        Console.WriteLine(grade);
+    }
+
+    Console.WriteLine("-------------------------");
+
+    foreach (int grade in query2)
+    {
+        Console.WriteLine(grade);
+    }
 }
 
-Console.WriteLine("-------------------------");
+// SelectVsSelectMany(studentList);
 
-var query3 = studentList.SelectMany(student => student.Grades);
-
-foreach (int s in query3)
+static void SelectVsSelectMany(List<Student> studentList)
 {
-    Console.WriteLine(s);
+    var query1 = studentList.Select((student) => student.Grades);
+    var query2 = studentList.SelectMany((student) => student.Grades);
+
+    // query1: List of lists with grades
+    // query2: List of grades
 }

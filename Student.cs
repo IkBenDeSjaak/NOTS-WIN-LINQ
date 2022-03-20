@@ -1,5 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-internal class Student
+﻿using System;
+
+public class Student
 {
     public Student()
     {
