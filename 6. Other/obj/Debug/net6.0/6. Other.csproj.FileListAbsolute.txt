@@ -1,0 +1,18 @@
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\bin\Debug\net6.0\6. Other.exe
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\bin\Debug\net6.0\6. Other.deps.json
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\bin\Debug\net6.0\6. Other.runtimeconfig.json
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\bin\Debug\net6.0\6. Other.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\bin\Debug\net6.0\ref\6. Other.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\bin\Debug\net6.0\6. Other.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\obj\Debug\net6.0\6. Other.csproj.AssemblyReference.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\obj\Debug\net6.0\6. Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\obj\Debug\net6.0\6. Other.AssemblyInfoInputs.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\obj\Debug\net6.0\6. Other.AssemblyInfo.cs
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\obj\Debug\net6.0\6. Other.csproj.CoreCompileInputs.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\obj\Debug\net6.0\6. Other.csproj.CopyComplete
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\obj\Debug\net6.0\6. Other.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\obj\Debug\net6.0\ref\6. Other.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\obj\Debug\net6.0\6. Other.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\6. Other\obj\Debug\net6.0\6. Other.genruntimeconfig.cache

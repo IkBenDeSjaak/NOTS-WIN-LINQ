@@ -16,9 +16,10 @@ static void GroupingExample(List<Student> studentList)
     foreach (var group in query1)
     {
         Console.WriteLine();
-        Console.WriteLine($"Students from {group.Key}:");
-        Console.WriteLine();
-        foreach (Student student in group) {
+        Console.WriteLine($"Students from {group.Key}: \n");
+
+        foreach (Student student in group)
+        {
             Console.WriteLine($"{student.Name}: {student.Nationality}");
         }
     }
@@ -28,8 +29,8 @@ static void GroupingExample(List<Student> studentList)
     foreach (var group in query2)
     {
         Console.WriteLine();
-        Console.WriteLine($"Students from {group.Key}:");
-        Console.WriteLine();
+        Console.WriteLine($"Students from {group.Key}: \n");
+
         foreach (Student student in group)
         {
             Console.WriteLine($"{student.Name}: {student.Nationality}");
