@@ -61,3 +61,39 @@ static void DeferredExecutionExample(List<Student> studentList)
         Console.WriteLine($"{student.Name}: {student.Age}");
     }
 }
+
+//CustomWhereMethodExample(studentList);
+
+static void CustomWhereMethodExample(List<Student> studentList)
+{
+    var query = studentList.WhereAbove21();
+
+    foreach (Student student in query)
+    {
+        Console.WriteLine($"{student.Name}: {student.Age}");
+    }
+}
+
+//CustomCountMethodExample(studentList);
+
+static void CustomCountMethodExample(List<Student> studentList)
+{
+    int amountOfStudents = studentList.CustomCountItems();
+
+    Console.WriteLine($"Amount of students: {amountOfStudents}");
+
+}
+
+//CustomMethodReturnsSequenceExample();
+
+static void CustomMethodReturnsSequenceExample()
+{
+    List<int> numbers = new() { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+
+    var query1 = numbers.RemoveFirstThree();
+
+    foreach (int number in query1)
+    {
+        Console.WriteLine(number);
+    }
+}

@@ -35,7 +35,12 @@
       "ProjectGuid": "f6112633-da86-4006-a805-77eba3f5d55d",
       "DisplayName": "5. Joining",
       "ColorIndex": 6
+    },
+    "9579e352-1c50-49ae-b143-7cb3bd808c73": {
+      "ProjectGuid": "9579e352-1c50-49ae-b143-7cb3bd808c73",
+      "DisplayName": "6. Other",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
