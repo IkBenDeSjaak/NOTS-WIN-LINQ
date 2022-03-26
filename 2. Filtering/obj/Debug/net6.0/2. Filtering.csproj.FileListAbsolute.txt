@@ -1,0 +1,36 @@
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\obj\Debug\net6.0\2. Filtering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\obj\Debug\net6.0\2. Filtering.AssemblyInfoInputs.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\obj\Debug\net6.0\2. Filtering.AssemblyInfo.cs
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\obj\Debug\net6.0\2. Filtering.csproj.CoreCompileInputs.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\obj\Debug\net6.0\2. Filtering.csproj.AssemblyReference.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\bin\Debug\net6.0\2. Filtering.exe
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\bin\Debug\net6.0\2. Filtering.deps.json
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\bin\Debug\net6.0\2. Filtering.runtimeconfig.json
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\bin\Debug\net6.0\2. Filtering.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\bin\Debug\net6.0\ref\2. Filtering.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\bin\Debug\net6.0\2. Filtering.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\obj\Debug\net6.0\2. Filtering.csproj.CopyComplete
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\obj\Debug\net6.0\2. Filtering.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\obj\Debug\net6.0\ref\2. Filtering.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\obj\Debug\net6.0\2. Filtering.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\Filtering\obj\Debug\net6.0\2. Filtering.genruntimeconfig.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\bin\Debug\net6.0\2. Filtering.exe
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\bin\Debug\net6.0\2. Filtering.deps.json
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\bin\Debug\net6.0\2. Filtering.runtimeconfig.json
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\bin\Debug\net6.0\2. Filtering.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\bin\Debug\net6.0\ref\2. Filtering.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\bin\Debug\net6.0\2. Filtering.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\obj\Debug\net6.0\2. Filtering.csproj.AssemblyReference.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\obj\Debug\net6.0\2. Filtering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\obj\Debug\net6.0\2. Filtering.AssemblyInfoInputs.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\obj\Debug\net6.0\2. Filtering.AssemblyInfo.cs
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\obj\Debug\net6.0\2. Filtering.csproj.CoreCompileInputs.cache
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\obj\Debug\net6.0\2. Filtering.csproj.CopyComplete
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\obj\Debug\net6.0\2. Filtering.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\obj\Debug\net6.0\ref\2. Filtering.dll
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\obj\Debug\net6.0\2. Filtering.pdb
+C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\2. Filtering\obj\Debug\net6.0\2. Filtering.genruntimeconfig.cache

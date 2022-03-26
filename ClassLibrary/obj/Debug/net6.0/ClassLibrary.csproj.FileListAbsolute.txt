@@ -9,4 +9,3 @@ C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\
 C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
 C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
 C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
-C:\Users\koksj\Documents\HAN\HBO-ICT\21-22-verdiepend\NOTS\WIN\Beroepsproducten\NOTS-WIN-LINQ\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
