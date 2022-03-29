@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Grouping", "4. Grouping\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Joining", "5. Joining\5. Joining.csproj", "{F6112633-DA86-4006-A805-77EBA3F5D55D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Other", "6. Other\6. Other.csproj", "{9579E352-1C50-49AE-B143-7CB3BD808C73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Other", "6. Other\6. Other.csproj", "{9579E352-1C50-49AE-B143-7CB3BD808C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{596E5BDC-074B-40D8-9792-A999E55C9DD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{9579E352-1C50-49AE-B143-7CB3BD808C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9579E352-1C50-49AE-B143-7CB3BD808C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9579E352-1C50-49AE-B143-7CB3BD808C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596E5BDC-074B-40D8-9792-A999E55C9DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596E5BDC-074B-40D8-9792-A999E55C9DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596E5BDC-074B-40D8-9792-A999E55C9DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596E5BDC-074B-40D8-9792-A999E55C9DD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
