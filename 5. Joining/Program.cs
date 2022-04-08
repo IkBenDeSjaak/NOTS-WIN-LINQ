@@ -67,7 +67,7 @@ static void GroupJoinExample(List<Student> studentList, List<Class> classList)
     }
 }
 
-// LeftOuterJoinExample(studentList, classes);
+//LeftOuterJoinExample(studentList, classes);
 
 static void LeftOuterJoinExample(List<Student> studentList, List<Class> classList)
 {
@@ -81,7 +81,7 @@ static void LeftOuterJoinExample(List<Student> studentList, List<Class> classLis
         student => student.ClassId,
         @class => @class.Id,
         (student, @classes) => new { Student = student, Classes = @classes })
-        .SelectMany(x => x.Classes.DefaultIfEmpty(),
+        .SelectMany(studentClasses => studentClasses.Classes.DefaultIfEmpty(),
         (student, @class) => new { student.Student.Name, ClassName = @class?.ClassName });
 
     foreach (var student in query1)

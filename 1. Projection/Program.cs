@@ -51,7 +51,7 @@ static void SelectManyExample(List<Student> studentList)
     }
 }
 
-// SelectVsSelectMany(studentList);
+//SelectVsSelectMany(studentList);
 
 static void SelectVsSelectMany(List<Student> studentList)
 {

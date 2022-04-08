@@ -10,20 +10,23 @@ static void OtherOperationExamples(List<Student> studentList)
     int numberOfStudents = studentList.Count();
     int highestAge = studentList.Max(student => student.Age);
     int sumOfAges = studentList.Sum(student => student.Age);
+    var averagePerStudent = studentList.Select((student) => new { student.Name, Average = student.Grades.Average((grade) => grade) });
+
     int skippedSumOfAges = studentList.Skip(1).Sum(student => student.Age);
     int firstThreeSumOfAges = studentList.Take(3).Sum(student => student.Age);
-    var averagePerStudent = studentList.Select((student) => new { student.Name, Average = student.Grades.Average((grade) => grade) });
 
     Console.WriteLine($"Number of students: {numberOfStudents} \n");
     Console.WriteLine($"Highest age: {highestAge} \n");
-    Console.WriteLine($"Sum of all ages: {sumOfAges} \n");
-    Console.WriteLine($"Sum of all ages (skipped): {skippedSumOfAges} \n");
-    Console.WriteLine($"Sum of all ages (first 3): {firstThreeSumOfAges} \n");
 
     foreach (var student in averagePerStudent)
     {
         Console.WriteLine($"{student.Name} - {student.Average}");
     }
+    Console.WriteLine();
+
+    Console.WriteLine($"Sum of all ages: {sumOfAges} \n");
+    Console.WriteLine($"Sum of all ages (skip 1): {skippedSumOfAges} \n");
+    Console.WriteLine($"Sum of all ages (first 3): {firstThreeSumOfAges} \n");
 }
 
 //FirstExample(studentList);
@@ -38,7 +41,7 @@ static void FirstExample(List<Student> studentList)
     Console.WriteLine(student1.Name);
     Console.WriteLine(student2?.Name);
 
-    //var student3 = emptyStudentList.First();
+    var student3 = emptyStudentList.First();
 }
 
 //DeferredExecutionExample(studentList);
@@ -53,7 +56,7 @@ static void DeferredExecutionExample(List<Student> studentList)
         Console.WriteLine($"{student.Name}: {student.Age}");
     }
 
-    studentList.Add(new Student() { Id = 6, Name = "Bram", Age = 24, Grades = new List<int> { 3, 6, 10 }, Nationality = "The Netherlands", ClassId = 1 });
+    studentList.Add(new Student() { Id = 7, Name = "Bram", Age = 24, Grades = new List<int> { 3, 6, 10 }, Nationality = "The Netherlands", ClassId = 1 });
 
     Console.WriteLine("-------------------------");
     foreach (Student student in query) // Query executed here
